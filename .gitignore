@@ -50,12 +50,12 @@ SourceArt/**/*.tga
 */Plugins/*/Binaries/*
 
 # Builds
-Build/*
+*/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!*/Build/*/
+*/Build/*/**
+!*/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
