@@ -5,12 +5,14 @@
 	"FriendlyName": "DashSystem",
 	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "Senswann",
+	"CreatedBy": "",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
-	"Installed": true
+	"Installed": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
