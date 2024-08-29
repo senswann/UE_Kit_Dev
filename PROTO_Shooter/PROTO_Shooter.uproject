@@ -10,6 +10,22 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "SettingManager",
+			"Enabled": true
+		},
+		{
+			"Name": "AiSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "DashSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "HealthSystem",
+			"Enabled": true
 		}
 	]
 }
