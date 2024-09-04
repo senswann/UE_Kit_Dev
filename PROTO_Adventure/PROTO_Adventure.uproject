@@ -30,6 +30,10 @@
 		{
 			"Name": "DashSystem",
 			"Enabled": true
+		},
+		{
+			"Name": "QuestSystem",
+			"Enabled": true
 		}
 	]
 }
